@@ -1,2 +1,2 @@
 # Gerenciamento-Bibliotecas
-UTFPT - Sistema para gerenciamento de bibliotecas projeto de IHC
+UTFPR - Sistema para gerenciamento de bibliotecas projeto de IHC
